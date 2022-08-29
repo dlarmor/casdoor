@@ -20,9 +20,9 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/casdoor/casdoor/conf"
-	"github.com/casdoor/casdoor/storage"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/conf"
+	"github.com/dlarmor/casdoor/storage"
+	"github.com/dlarmor/casdoor/util"
 )
 
 var isCloudIntranet bool

@@ -23,11 +23,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/casdoor/casdoor/conf"
-	"github.com/casdoor/casdoor/idp"
-	"github.com/casdoor/casdoor/object"
-	"github.com/casdoor/casdoor/proxy"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/conf"
+	"github.com/dlarmor/casdoor/idp"
+	"github.com/dlarmor/casdoor/object"
+	"github.com/dlarmor/casdoor/proxy"
+	"github.com/dlarmor/casdoor/util"
 	"github.com/google/uuid"
 )
 

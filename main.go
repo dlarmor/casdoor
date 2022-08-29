@@ -21,13 +21,13 @@ import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/logs"
 	_ "github.com/astaxie/beego/session/redis"
-	"github.com/casdoor/casdoor/authz"
-	"github.com/casdoor/casdoor/conf"
-	"github.com/casdoor/casdoor/object"
-	"github.com/casdoor/casdoor/proxy"
-	"github.com/casdoor/casdoor/routers"
-	_ "github.com/casdoor/casdoor/routers"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/authz"
+	"github.com/dlarmor/casdoor/conf"
+	"github.com/dlarmor/casdoor/object"
+	"github.com/dlarmor/casdoor/proxy"
+	"github.com/dlarmor/casdoor/routers"
+	_ "github.com/dlarmor/casdoor/routers"
+	"github.com/dlarmor/casdoor/util"
 )
 
 func main() {

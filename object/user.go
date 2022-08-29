@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/casdoor/casdoor/conf"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/conf"
+	"github.com/dlarmor/casdoor/util"
 	"github.com/duo-labs/webauthn/webauthn"
 	"xorm.io/core"
 )

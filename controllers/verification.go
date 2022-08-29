@@ -19,9 +19,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/casdoor/casdoor/captcha"
-	"github.com/casdoor/casdoor/object"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/captcha"
+	"github.com/dlarmor/casdoor/object"
+	"github.com/dlarmor/casdoor/util"
 )
 
 func (c *ApiController) getCurrentUser() *object.User {

@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/casdoor/casdoor/conf"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/conf"
+	"github.com/dlarmor/casdoor/util"
 	"github.com/golang-jwt/jwt/v4"
 )
 

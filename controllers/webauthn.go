@@ -18,8 +18,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/casdoor/casdoor/object"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/object"
+	"github.com/dlarmor/casdoor/util"
 	"github.com/duo-labs/webauthn/protocol"
 	"github.com/duo-labs/webauthn/webauthn"
 )

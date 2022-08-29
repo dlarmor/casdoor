@@ -20,8 +20,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/casdoor/casdoor/conf"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/conf"
+	"github.com/dlarmor/casdoor/util"
 	"xorm.io/core"
 )
 

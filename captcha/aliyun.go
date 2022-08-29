@@ -26,7 +26,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/util"
 )
 
 const AliyunCaptchaVerifyUrl = "http://afs.aliyuncs.com"

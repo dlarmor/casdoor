@@ -21,7 +21,7 @@ import (
 
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/context"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/util"
 )
 
 var (

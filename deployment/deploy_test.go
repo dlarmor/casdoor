@@ -20,7 +20,7 @@ package deployment
 import (
 	"testing"
 
-	"github.com/casdoor/casdoor/object"
+	"github.com/dlarmor/casdoor/object"
 )
 
 func TestDeployStaticFiles(t *testing.T) {

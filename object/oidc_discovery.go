@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/casdoor/casdoor/conf"
+	"github.com/dlarmor/casdoor/conf"
 	"gopkg.in/square/go-jose.v2"
 )
 

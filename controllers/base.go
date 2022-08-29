@@ -20,8 +20,8 @@ import (
 
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/logs"
-	"github.com/casdoor/casdoor/object"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/object"
+	"github.com/dlarmor/casdoor/util"
 )
 
 // ApiController

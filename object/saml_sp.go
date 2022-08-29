@@ -23,7 +23,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/casdoor/casdoor/conf"
+	"github.com/dlarmor/casdoor/conf"
 	saml2 "github.com/russellhaering/gosaml2"
 	dsig "github.com/russellhaering/goxmldsig"
 )

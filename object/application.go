@@ -19,7 +19,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/util"
 	"xorm.io/core"
 )
 

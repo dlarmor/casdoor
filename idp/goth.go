@@ -21,7 +21,6 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/casdoor/casdoor/util"
 	"github.com/casdoor/goth"
 	"github.com/casdoor/goth/providers/amazon"
 	"github.com/casdoor/goth/providers/apple"
@@ -51,6 +50,7 @@ import (
 	"github.com/casdoor/goth/providers/yahoo"
 	"github.com/casdoor/goth/providers/yandex"
 	"github.com/casdoor/goth/providers/zoom"
+	"github.com/dlarmor/casdoor/util"
 	"golang.org/x/oauth2"
 )
 

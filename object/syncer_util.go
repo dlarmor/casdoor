@@ -21,7 +21,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/util"
 )
 
 func (syncer *Syncer) getFullAvatarUrl(avatar string) string {

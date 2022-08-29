@@ -19,10 +19,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/casdoor/casdoor/object"
-	"github.com/casdoor/casdoor/storage"
-	"github.com/casdoor/casdoor/util"
 	"github.com/casdoor/oss"
+	"github.com/dlarmor/casdoor/object"
+	"github.com/dlarmor/casdoor/storage"
+	"github.com/dlarmor/casdoor/util"
 )
 
 func deployStaticFiles(provider *object.Provider) {

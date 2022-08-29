@@ -21,8 +21,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/casdoor/casdoor/idp"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/idp"
+	"github.com/dlarmor/casdoor/util"
 	"xorm.io/core"
 )
 

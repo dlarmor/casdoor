@@ -21,8 +21,8 @@ import (
 	"strings"
 
 	"github.com/astaxie/beego/context"
-	"github.com/casdoor/casdoor/authz"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/authz"
+	"github.com/dlarmor/casdoor/util"
 )
 
 type Object struct {

@@ -18,7 +18,7 @@ import (
 	"fmt"
 
 	"github.com/casbin/casbin/v2/model"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/util"
 	"xorm.io/core"
 )
 

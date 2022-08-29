@@ -20,7 +20,7 @@ import (
 	"github.com/casbin/casbin/v2"
 	"github.com/casbin/casbin/v2/model"
 	xormadapter "github.com/casbin/xorm-adapter/v2"
-	"github.com/casdoor/casdoor/conf"
+	"github.com/dlarmor/casdoor/conf"
 )
 
 func getEnforcer(permission *Permission) *casbin.Enforcer {

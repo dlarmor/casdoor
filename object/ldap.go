@@ -20,7 +20,7 @@ import (
 	"strings"
 
 	"github.com/astaxie/beego"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/util"
 	goldap "github.com/go-ldap/ldap/v3"
 	"github.com/thanhpk/randstr"
 )

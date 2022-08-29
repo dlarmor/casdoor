@@ -18,8 +18,8 @@ import (
 	"net/http"
 
 	"github.com/astaxie/beego/context"
-	"github.com/casdoor/casdoor/conf"
-	"github.com/casdoor/casdoor/object"
+	"github.com/dlarmor/casdoor/conf"
+	"github.com/dlarmor/casdoor/object"
 )
 
 const (

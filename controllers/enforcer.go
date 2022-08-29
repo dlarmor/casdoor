@@ -17,7 +17,7 @@ package controllers
 import (
 	"encoding/json"
 
-	"github.com/casdoor/casdoor/object"
+	"github.com/dlarmor/casdoor/object"
 )
 
 func (c *ApiController) Enforce() {

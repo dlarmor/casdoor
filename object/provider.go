@@ -17,8 +17,8 @@ package object
 import (
 	"fmt"
 
-	"github.com/casdoor/casdoor/pp"
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/pp"
+	"github.com/dlarmor/casdoor/util"
 	"xorm.io/core"
 )
 

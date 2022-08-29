@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/casdoor/casdoor/util"
+	"github.com/dlarmor/casdoor/util"
 	"github.com/go-pay/gopay"
 	"github.com/go-pay/gopay/alipay"
 )
